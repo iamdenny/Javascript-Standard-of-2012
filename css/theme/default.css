@@ -26,7 +26,7 @@
  *********************************************/
 
 body {
-	font-family: 'Lato', Times, 'Times New Roman', serif;
+	font-family: 'Lato', '나눔고딕',nanumgothic,'돋움',dotum,applegothic,sans-serif, Times, 'Times New Roman', serif;
 	font-size: 36px;
 	font-weight: 200;
 	letter-spacing: -0.02em;
@@ -55,11 +55,11 @@ body {
 .reveal h6 {
 	margin: 0 0 20px 0;
 	color: #eee;
-	font-family: 'League Gothic', Impact, sans-serif;
+	font-family: 'League Gothic', '나눔고딕',nanumgothic,'돋움',dotum,applegothic,Impact, sans-serif;
 	line-height: 0.9em;
 	letter-spacing: 0.02em;
 	
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	text-shadow: 0px 0px 6px rgba(0,0,0,0.2);
 }
 
@@ -75,6 +75,8 @@ body {
 					0 3px 5px rgba(0,0,0,.2),
 					0 5px 10px rgba(0,0,0,.25),
 					0 20px 20px rgba(0,0,0,.15);
+	font-size: 2.5em;
+	line-height: 1.3em;
 }
 
 

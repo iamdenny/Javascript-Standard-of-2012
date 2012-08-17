@@ -899,3 +899,11 @@ body {
 	display: none;
 }
 
+
+/*********************************************
+ * Custom Style
+ *********************************************/
+#logo {position:absolute;left:30px;bottom:20px;z-index:100;margin:0;padding:0}
+#logo img {background:none;border-color:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
+#author {text-align:right;font-size:0.6em;padding-top:20px;}
+.class_prototype {border:auto;}
