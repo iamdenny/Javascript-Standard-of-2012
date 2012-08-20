@@ -761,7 +761,7 @@ define(['lib/account', 'lib/sesstion'],
 				</section>
 				
 				<section>
-					<br><br><br><br>
+					<br><br><br>
 					<h1>Gracias</h1>
 					<h4>BY Denny Lim</h4>
 				</section>

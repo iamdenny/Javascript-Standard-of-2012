@@ -80,7 +80,7 @@ body {
 }
 
 .reveal h2.middle {
-	margin-top:230px;
+	margin-top:170px;
 }
 
 /*********************************************
