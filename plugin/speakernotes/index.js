@@ -39,7 +39,7 @@ app.get("/notes/:socketId", function(req, res) {
 	});
 	// fs.createReadStream(opts.baseDir + 'speakernotes/notes.html').pipe(res);
 });
-
+app.use(express.static(__dirname + '/../../'));
 // Actually listen
 app.listen(opts.port || null);
 
